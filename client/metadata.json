@@ -1,0 +1,7 @@
+{
+  "name": "CloudPOS - Mediasoft Data Systems Ltd",
+  "description": "A professional and modern multipage POS solution website featuring CloudPOS by Mediasoft.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
